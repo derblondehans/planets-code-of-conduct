@@ -41,7 +41,7 @@ The following rules apply for a NAP
 3. A NAP does not imply a border agreement. But it is recommended to agree on a border agreement together with a NAP.
 4. A NAP is valid without the ingame diplomacy setting "safe passage".
    - It is recommended to wing a NAP with a diplomacy setting "safe passage", to avoid actions, that are seen as a breach of the NAP.
-   - Revoking "safe passage" i not seen as a cancelation of a NAP. A cabcellation has to be given explicitely as given below.
+   - Revoking "safe passage" is not seen as a cancelation of a NAP. A cabcellation has to be given explicitely as given below.
 5. Cancellation of a NAP
    - A NAP can be cancelled by ingame message for the next turn, unless defined differently.
    - This means if a player cancels the NAP while giving orders in turn X, already in host run for turn X+1 he can break the former NAP ules without breaking the conditions of this code of conduct.
