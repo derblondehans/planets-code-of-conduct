@@ -54,7 +54,7 @@ The following rules apply for a NAP
    - This includes Super Spy mission.
    - This includes Imperial assaukt.
    - This includes any Horwasp pod mission. (Though this is often a matter of negotiation, as a pod mission might have been started long before, and the target was in 3rd party player hands at that time)
-8. No mine field behaivior is defined by a NAP. It is recommended to cover this with a border agreement.
-9. 
+7. No mine field behaivior is defined by a NAP. It is recommended to cover this with a border agreement.
+
 
 
